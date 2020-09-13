@@ -1,0 +1,1 @@
+chocolate,flour,cream,egg,butter,cocoa solids,sugar,baking powder,powdered sugar,vanila extract. 
